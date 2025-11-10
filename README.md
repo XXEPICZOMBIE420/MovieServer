@@ -1,1 +1,8 @@
 # MovieServer
+cd movie-server
+git init
+git add .
+git commit -m "Initial Movie Server app"
+git branch -M main
+git remote add origin https://github.com/YOUR_USERNAME/movie-server.git
+git push -u origin main
